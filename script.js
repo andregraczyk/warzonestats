@@ -35,8 +35,4 @@ function killDeathRatio (resultadoKills, resultadoDeaths) {
     const calculoKd = document.querySelector('#kd');
     let resultadoKd = (parseFloat(resultadoKills) / parseFloat(resultadoDeaths).toFixed(2));
     calculoKd.innerHTML = `Seu K/D é: ${resultadoKd}`;
-}
-
-// function clearInputs () {
-//     const formulario = document.querySelector('#form');
-//     document.querySelector('#formulario').reset
+};
