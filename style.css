@@ -1,0 +1,31 @@
+body {
+    background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi39Q8r_JIPqsI0ddyjVfxGHXmkAo5cLJzZxyHR47Rhcm4LqzQNKGt7esnFKlZ5Zvs1WK83g-eGN5q-yKB0k_WW6y_2XVjZODr3sdHIL_zXxtfWO3uY7jxUH3spccFTAwjh9uMRiQcRNM-2FkG8YyzTugr80jqGx9rPq60m3c607asVfIQeAEbOPbZ0/s1600/warzone-2-tudo-sobre.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0%;
+}
+
+.forms {
+    max-width: 150px;
+    margin: 0 auto;
+    background: rgba(0,0,0,0.5);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+form input, form label, form button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.results {
+    max-width: 150px;
+    margin: 0 auto;
+    background: rgba(10,5,56,0.5);
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 260px;
+    display: block;
+    width: 100%;
+}
